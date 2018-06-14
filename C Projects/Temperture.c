@@ -15,7 +15,7 @@ int main(){
   double celsius; // define celsius
 
   printf("%3s %s\n", "F", "C"); // prints out the units for the temperture table
-  for (fahrenheit = 200; fahrenheit >= 0; fahrenheit-=10){ // in this case, the table of temperture starts from 200 fahrenheit
+  for (fahrenheit = 200; fahrenheit >= 0; fahrenheit -= 10){ // in this case, the table of temperture starts from 200 fahrenheit
     celsius = (fahrenheit - 32) * (5.0/9.0); // calculates the celsius
     printf("%3d ", fahrenheit); // prints out fahrenheit
     printf("%.2f\n", celsius); // prints out celsius
