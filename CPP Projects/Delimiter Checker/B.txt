@@ -1,0 +1,9 @@
+  if (choice == "r"){
+      cout << "Please enter the full name of the file, including the .txt at the end. " << endl;
+      cin >> inputFileString;
+      inputFileStream.open(inputFileString.c_str());
+
+      checkFiles();
+
+    }
+{}
