@@ -11,10 +11,7 @@ main.cpp
 genstack.h
 
 test files:
-B.txt // balanced
-notB.txt // not balanced
-B.cpp // somehow does not really work for the program
-notB.cpp // same above
+C.txt // not balanced
 
 Known problem:
 The program seems work fine with .txt files, but it does not work well with .cpp files.
