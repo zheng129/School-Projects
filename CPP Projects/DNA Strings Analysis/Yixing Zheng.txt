@@ -1,0 +1,68 @@
+Yixing Zheng
+2293298
+zheng129@mail.chapman.edu
+CPSC 350
+Project 1
+
+The name of the file is: input.txt
+The sum of all lines is 8.000000
+The mean of all lines is 2.666667
+The variance of all length is: 0.888889
+The standard deviation of all length is: 0.942809
+
+The relative possibility of A is: 25.000000%
+The relative possibility of T is: 50.000000%
+The relative possibility of G is: 0.000000%
+The relative possibility of C is: 25.000000%
+
+The relative possibility of AA is: 0.000000%
+The relative possibility of AT is: 25.000000%
+The relative possibility of AG is: 0.000000%
+The relative possibility of AC is: 0.000000%
+
+The relative possibility of TA is: 0.000000%
+The relative possibility of TT is: 0.000000%
+The relative possibility of TG is: 12.500000%
+The relative possibility of TC is: 0.000000%
+
+The relative possibility of CA is: 0.000000%
+The relative possibility of CT is: 0.000000%
+The relative possibility of CG is: 0.000000%
+The relative possibility of CC is: 0.000000%
+
+The relative possibility of GA is: 0.000000%
+The relative possibility of GT is: 0.000000%
+The relative possibility of GG is: 0.000000%
+The relative possibility of GC is: 25.000000%
+
+The name of the file is: input1.txt
+The sum of all lines is 8.000000
+The mean of all lines is 2.666667
+The variance of all length is: 0.888889
+The standard deviation of all length is: 0.942809
+
+The relative possibility of A is: 50.000000%
+The relative possibility of T is: 37.500000%
+The relative possibility of G is: 0.000000%
+The relative possibility of C is: 12.500000%
+
+The relative possibility of AA is: 37.500000%
+The relative possibility of AT is: 0.000000%
+The relative possibility of AG is: 0.000000%
+The relative possibility of AC is: 0.000000%
+
+The relative possibility of TA is: 0.000000%
+The relative possibility of TT is: 12.500000%
+The relative possibility of TG is: 0.000000%
+The relative possibility of TC is: 0.000000%
+
+The relative possibility of CA is: 0.000000%
+The relative possibility of CT is: 0.000000%
+The relative possibility of CG is: 0.000000%
+The relative possibility of CC is: 0.000000%
+
+The relative possibility of GA is: 0.000000%
+The relative possibility of GT is: 0.000000%
+The relative possibility of GG is: 0.000000%
+The relative possibility of GC is: 12.500000%
+
