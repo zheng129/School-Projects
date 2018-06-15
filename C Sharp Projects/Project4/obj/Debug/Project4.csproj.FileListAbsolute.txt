@@ -1,0 +1,10 @@
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\bin\Debug\Project4.exe.config
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\bin\Debug\Project4.exe
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\bin\Debug\Project4.pdb
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\obj\Debug\Project4.csprojResolveAssemblyReference.cache
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\obj\Debug\Project4.Form1.resources
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\obj\Debug\Project4.Properties.Resources.resources
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\obj\Debug\Project4.csproj.GenerateResource.Cache
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\obj\Debug\Project4.exe
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\obj\Debug\Project4.pdb
+C:\Users\Yixing\Documents\Fall 2017\CPSC 236\Project4\obj\Debug\Project4.Form2.resources
